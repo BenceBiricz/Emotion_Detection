@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emotion_Detection", "Emotion_Detection.csproj", "{639DEC07-F253-48C7-B2D8-5E6A6F13769E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639DEC07-F253-48C7-B2D8-5E6A6F13769E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639DEC07-F253-48C7-B2D8-5E6A6F13769E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639DEC07-F253-48C7-B2D8-5E6A6F13769E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639DEC07-F253-48C7-B2D8-5E6A6F13769E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC2BB50-2765-4BFD-B99E-017668D71C68}
+	EndGlobalSection
+EndGlobal
